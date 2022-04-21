@@ -13,6 +13,7 @@ import android.widget.EditText
 import android.widget.ImageView
 import android.widget.Toast
 import androidx.core.content.FileProvider
+import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.parse.*
 import java.io.File
 
@@ -42,7 +43,20 @@ class MainActivity : AppCompatActivity() {
             onLaunchCamera()
         }
 
-        queryPosts()
+        findViewById<BottomNavigationView>(R.id.bottom_navigation).setOnItemSelectedListener {
+            item ->
+
+            when (item.itemId) {
+                R.id.action_home -> {}
+                R.id.action_compose -> {}
+                R.id.action_profile -> {}
+
+            }
+
+            true
+        }
+
+        //queryPosts()
     }
 
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
