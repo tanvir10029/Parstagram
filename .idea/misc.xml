@@ -6,12 +6,14 @@
         <entry key="..\:/Users/Lenovo/Documents/Parstagram/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Lenovo/Documents/Parstagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1" />
         <entry key="..\:/Users/tanvi/AndroidStudioProjects/Parstagram/app/src/main/res/layout/activity_login.xml" value="0.286231884057971" />
-        <entry key="..\:/Users/tanvi/AndroidStudioProjects/Parstagram/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/tanvi/AndroidStudioProjects/Parstagram/app/src/main/res/layout/activity_main.xml" value="0.225" />
+        <entry key="..\:/Users/tanvi/AndroidStudioProjects/Parstagram/app/src/main/res/layout/fragment_compose.xml" value="0.14375" />
+        <entry key="..\:/Users/tanvi/AndroidStudioProjects/Parstagram/app/src/main/res/layout/fragment_feed.xml" value="0.14375" />
         <entry key="..\:/Users/tanvi/AndroidStudioProjects/Parstagram/app/src/main/res/xml/fileprovider.xml" value="0.1461499493414387" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
